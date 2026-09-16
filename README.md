@@ -82,3 +82,4 @@ The laboratory is built using a virtual machine running Kali Linux.
 <h2><u>📸 Kali Linux Network Configuration</u></h2>
 
 ![Kali Linux Network Configuration](https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linuxlab-setup/blob/eb5134cd56adffffe602012e999618844701cbce/Screenshot%202026-09-16%20093904.png)
+![Image alt](https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linuxlab-setup/blob/eb5134cd56adffffe602012e999618844701cbce/Screenshot%202026-09-16%20093904.png)
