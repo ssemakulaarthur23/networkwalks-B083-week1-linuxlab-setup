@@ -79,6 +79,4 @@ The laboratory is built using a virtual machine running Kali Linux.
      Linux         Networking      Security
    Administration    Tools          Tools
 
-<h2><u>📸 Kali Linux Network Configuration</u></h2>
-
-![Kali Linux Network Configuration](./Screenshot%202026-09-16%20093904.png)
+https://github.com/ssemakulaarthur23/networkwalks-B083-week1-linuxlab-setup/blob/main/Screenshot%202026-09-16%20093904.png
